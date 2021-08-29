@@ -34,6 +34,10 @@ __Note :__ *"Issues" and "Pull Request" are welcome.*
 
 In *"./payloads/"* directory, you will find :
 
+| DoS | Author | Usage |
+| --- | --- | --- |
+| clients-deauth.rb | TW-D | ruby ./clients-deauth.rb |
+
 | EXPLOITATION | Author | Usage |
 | --- | --- | --- |
 | mass-handshakes.rb | TW-D | ruby ./mass-handshakes.rb |
